@@ -7,15 +7,15 @@
   "skills":{
               "languages": ["Java", "Python", "C++", "JavaScript"],
               "frameworks": ["srpingboot", "django", "vue", "nodejs", "bootstrap"],
-              "tools": ["notion", "Kaggle", "Jupyter Notebook", "OpenCV"]
+              "tools": ["Notion", "Kaggle", "Jupyter Notebook", "OpenCV"]
             },
   "projects":{
                 "data_science": ["Supervised Learning", "Data clustering", "NLP", "Computer Vision"]
               },
-  "interests": ["math", "AI", "project management", "MTG"],
+  "interests": ["math", "science", "AI", "project management", "MTG"],
   "currently_working_on":{
     "project_name": "Sociedad Científica Estudiantil de Ingeniería de Sistemas - UCB La Paz",
-    "since": 2023-09-05,
+    "since": "2023-09-05",
     "info": [{
                 "email": "miguel.carrasco@ucb.edu.bo"
               }]
