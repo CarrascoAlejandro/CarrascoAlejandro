@@ -1,4 +1,6 @@
-### Hi there 👋
+### `GET STATUS: OK`
+
+`Response:`
 
 ```json
 {
