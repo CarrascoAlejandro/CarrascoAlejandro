@@ -1,7 +1,9 @@
 ### `GET STATUS: OK`
 
 `Date: Today`
+
 `Connection: close`
+
 `Response:`
 
 ```json
