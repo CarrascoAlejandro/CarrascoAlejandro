@@ -21,10 +21,12 @@
             "springboot",
             "django",
             "vue",
-            "nodejs",
+            "flask",
             "bootstrap"
         ],
         "tools": [
+            "ChatGPT",
+            "OpenAI and Gemini API",
             "Notion",
             "Kaggle",
             "Jupyter Notebook",
@@ -40,6 +42,7 @@
         ],
         "programming": [
             "ICPC nationals",
+            "Hackathon BCP 2024"
         ]
     },
     "interests": [
