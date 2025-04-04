@@ -15,14 +15,16 @@
             "Java",
             "Python",
             "C++",
-            "JavaScript"
+            "JavaScript",
+            "TypeScript"
         ],
         "frameworks": [
             "springboot",
-            "django",
+            "quarkus",
             "vue",
             "flask",
-            "bootstrap"
+            "reactJs",
+            "quasar"
         ],
         "tools": [
             "ChatGPT",
@@ -56,14 +58,19 @@
         "linguistics",
         "education"
     ],
-    "currently_working_on": [
+    "past_experience": [
         {
             "project_name": "Sociedad Científica Estudiantil de Ingeniería de Sistemas - UCB La Paz",
             "since": "2023-09-05",
+            "up-to": "2025-03-21",
             "info": {
                 "email": "miguel.carrasco@ucb.edu.bo",
                 "organization": "https://github.com/SCE-IS-Codebase"
             }
+        },
+        {
+            "project_name": "CIRRUS IT Fullstack-Developer",
+            "since": "2025-01-10",
         }
     ],
     "contacts": {
